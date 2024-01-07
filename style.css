@@ -1,0 +1,54 @@
+body {
+    /* background-color: antiquewhite; */
+    /* color: blue; */
+}
+
+#resume{
+    color: red;
+    text-align: center;
+    font-family: PoppinsBold;
+    font-size: 3em;
+    background-color: rgba(77, 0, 128, 0.4);
+    text-shadow: 5px 5px 5px black;
+}
+h3{
+    color: blue; 
+}
+
+p{
+    color: black;
+
+}
+
+li {
+    /* font-size: 32px;
+    font-size: 2em;
+    font-size: 200%; */
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid black;
+    background-color: rgba(0, 0, 0, 0.502);
+    text-decoration: underline;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+  }
+
+  p > span {
+    /* color: black; */
+    text-decoration: underline;
+    font-family: PoppinsBold;
+
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    /* border: 1px solid black;
+    background-color: chartreuse; */
+    /* opacity: 0.5; */
+
+ }
+
+ .css-text{
+    border: 1px solid turquoise;
+    background-color: turquoise; 
+ }
+
+
