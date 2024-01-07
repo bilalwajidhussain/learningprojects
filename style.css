@@ -2,7 +2,6 @@ body {
     /* background-color: antiquewhite; */
     /* color: blue; */
 }
-
 #resume{
     color: red;
     text-align: center;
@@ -37,7 +36,7 @@ li {
     /* color: black; */
     text-decoration: underline;
     font-family: PoppinsBold;
-
+width: 400px;
     letter-spacing: 1px;
     word-spacing: 3px;
     /* border: 1px solid black;
@@ -48,7 +47,28 @@ li {
 
  .css-text{
     border: 1px solid turquoise;
-    background-color: turquoise; 
+    background-color: turquoise;
+    font-weight: bold; 
+ }
+ td{
+    color: tomato;
+    /* text-align: center; */
  }
 
+ #bbb{
+    /* text-align: center; */
+ }
+table
+ .css{
+    text-align: right;
+    border: 0cap solid black;
+    width: 800px;
+    background-color: aqua;
+    font-size: 1.3em;
+ }
 
+ .text-bold{
+    font-weight: bold;
+    font-size: 1.3em;
+    background-color: aqua;
+ }
