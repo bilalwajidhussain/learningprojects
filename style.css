@@ -60,14 +60,16 @@ width: 400px;
  }
 table
  .css{
-    text-align: right;
+    text-align: center;
     border: 0cap solid black;
-    width: 800px;
+    width: 12000px;
     background-color: aqua;
     font-size: 1.3em;
  }
 
- .text-bold{
+ .text-bold{width: 600px;
+   
+    text-align: center;
     font-weight: bold;
     font-size: 1.3em;
     background-color: aqua;
